@@ -2,13 +2,15 @@ HBV401G
 =======
 Version control for projects in Þróun Hugbúnaðar.
 
+- git clone LinkFromAbove ## to get started using the repo
+
+## Committing
 - $ git add "File you want to update or add to the repo"	## git add * ## add all files
 - $ git commit -m "message why you updated or added the file"	## -a opens the commit message file
 - $ git push origin master					## master as in branch name
 
-Help
-======
-Branches]
+
+## Branches
 - $ git branch 				## List all available branches
 - $ git checkout BranchName 		## Change to the BranchName working branchtree
 - $ git branch -d BranchName 		## Deletes a branch
