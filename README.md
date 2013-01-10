@@ -1,3 +1,3 @@
-HBV401G - HELLO!
+HBV401G 
 =======
-hello.
+Version control for projects in Þróun Hugbúnaðar.
